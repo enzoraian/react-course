@@ -6,6 +6,3 @@ import { apiKey } from "./util.js";
 
 console.log(soma(5, 6));
 console.log(apiKey);
-
-// 2) Variáveis e Tipos de Dados
-let str = "Olá Mundo";
